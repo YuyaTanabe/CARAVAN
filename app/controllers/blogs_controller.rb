@@ -1,4 +1,4 @@
-gitclass BlogsController < ApplicationController
+class BlogsController < ApplicationController
   def show
   end
 
@@ -11,3 +11,4 @@ gitclass BlogsController < ApplicationController
   def edit
   end
 end
+
